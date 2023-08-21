@@ -1,4 +1,4 @@
-# Dark Mode Site Switcher
+# Simple Dark Mode
 
 A sleek, efficient dark mode switcher plugin for WordPress websites.
 
