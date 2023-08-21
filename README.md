@@ -4,6 +4,10 @@ A sleek, efficient dark mode switcher for WordPress websites.
 
 ![Banner Image](https://caiohferreira.com.br/wp-content/uploads/2023/08/1-simple-dark-mode-plugin.png)
 
+Plugin settings screen:
+
+![Banner Image](https://caiohferreira.com.br/wp-content/uploads/2023/08/2-simple-dark-mode-plugin.png)
+
 ## Features
 
 - Easy Toggle: A simple button lets users switch modes instantaneously.
