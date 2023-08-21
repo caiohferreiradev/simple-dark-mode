@@ -1,6 +1,6 @@
 # Dark Mode Site Switcher
 
-A sleek, efficient dark mode switcher for WordPress websites.
+A sleek, efficient dark mode switcher plugin for WordPress websites.
 
 ![Banner Image](https://caiohferreira.com.br/wp-content/uploads/2023/08/1-simple-dark-mode-plugin.png)
 
