@@ -2,7 +2,7 @@
 
 A sleek, efficient dark mode switcher for WordPress websites.
 
-![Banner Image](path-to-banner-image-if-you-have-one.png)
+![Banner Image](https://caiohferreira.com.br/wp-content/uploads/2023/08/1-simple-dark-mode-plugin.png)
 
 ## Features
 
