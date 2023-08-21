@@ -1,0 +1,134 @@
+/* Basic style for toggle button */
+
+.dark-mode-toggle {
+	padding: 10px;
+	cursor: pointer;
+	background-color: #333;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	transition: background-color 0.3s;
+}
+
+.dark-mode-toggle:hover {
+	background-color: #555;
+}
+
+/* 
+* Styles for the dark mode 
+*/
+
+body.dark-mode {
+	background-color: #111 !important;
+	color: #ddd !important;
+}
+
+body.dark-mode a {
+	color: #ddd !important;
+}
+
+body.dark-mode .wp-block-heading{
+	color: #ddd;
+}
+
+body.dark-mode time{
+	color: #ddd;
+}
+
+/* Dark Mode Logo and White Mode Logo: Upcoming
+
+.sdms-logo {
+	max-width: 100%;
+	height: auto;
+}
+
+*/
+
+/* Buttons from WordPress blocks */
+body.dark-mode .wp-block-button__link {
+	background-color: #333;
+	color: #ddd !important;
+}
+
+body.dark-mode .wp-block-button__link:hover {
+	background-color: #555;
+	color: #ddd;
+}
+
+/* Adjust other block elements to gray tones when dark mode is active */
+
+/* Social icons */
+body.dark-mode .wp-block-social-links .wp-social-link svg{
+	fill: #ddd !important;
+}
+
+body.dark-mode .wp-block-separator {
+	background-color: #333;
+}
+
+/* Table */
+body.dark-mode .wp-block-table {
+	border-color: #333;
+}
+
+body.dark-mode .wp-block-table th,
+body.dark-mode .wp-block-table td {
+	border-color: #333;
+	background-color: #222;
+	color: #ddd;
+}
+
+/* Lists */
+body.dark-mode .wp-block-list {
+	color: #ddd;
+}
+
+body.dark-mode .wp-block-list li {
+	border-color: #333;
+}
+
+/* Pullquote */
+body.dark-mode .wp-block-pullquote {
+	color: #ddd;
+	border-color: #333;
+}
+
+/* Separator */
+body.dark-mode .wp-block-separator {
+	background-color: #333;
+}
+
+/* Verse */
+body.dark-mode .wp-block-verse {
+	background-color: #222;
+	color: #ddd;
+}
+
+body.dark-mode input[type="text"],
+body.dark-mode input[type="password"],
+body.dark-mode input[type="email"],
+body.dark-mode input[type="search"],
+body.dark-mode input[type="tel"],
+body.dark-mode input[type="url"],
+body.dark-mode input[type="number"],
+body.dark-mode input[type="date"],
+body.dark-mode textarea,
+body.dark-mode select {
+	background-color: #333; /* Dark background */
+	color: #f0f0f0; /* Light text */
+	border: 1px solid #555; /* Slightly lighter border for some definition */
+}
+
+body.dark-mode input[type="text"]:focus,
+body.dark-mode input[type="password"]:focus,
+body.dark-mode input[type="email"]:focus,
+body.dark-mode input[type="search"]:focus,
+body.dark-mode input[type="tel"]:focus,
+body.dark-mode input[type="url"]:focus,
+body.dark-mode input[type="number"]:focus,
+body.dark-mode input[type="date"]:focus,
+body.dark-mode textarea:focus,
+body.dark-mode select:focus {
+	outline-color: #666; /* Slightly lighter outline for focused elements */
+	box-shadow: 0 0 5px rgba(255, 255, 255, 0.2); /* A subtle glow to indicate focus */
+}
