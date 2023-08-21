@@ -45,4 +45,4 @@ This project is licensed under the [GPLv2 or later](https://www.gnu.org/licenses
 
 ## Support
 
-For support, please [create an issue](https://github.com/your-username/dark-mode-site-switcher/issues) on this repository.
+For support, please [create an issue](https://github.com/caioh-ferreira/dark-mode-site-switcher/issues) on this repository.
